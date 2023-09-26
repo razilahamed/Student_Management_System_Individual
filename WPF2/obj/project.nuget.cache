@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zb59BgFxlGPNGwYaYFFrh822WjlUx4ZP3Zv0QGER9ue5Z7+1+J2fBdQhUULlGDQJkL+yVmlRpyGOaj0Ky6faaQ==",
+  "success": true,
+  "projectFilePath": "D:\\UoR_FoE\\Semester 3\\Project\\Individual\\WPF2\\WPF2\\WPF2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
