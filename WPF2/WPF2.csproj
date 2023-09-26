@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\adddark.png" />
+    <None Remove="Images\addlight.png" />
+    <None Remove="Images\cr.png" />
+    <None Remove="Images\cw.png" />
+    <None Remove="Images\deletedark.png" />
+    <None Remove="Images\deletelight.png" />
+    <None Remove="Images\editdark.png" />
+    <None Remove="Images\editlight.png" />
+    <None Remove="Images\icsearch.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\adddark.png" />
+    <Resource Include="Images\addlight.png" />
+    <Resource Include="Images\cr.png" />
+    <Resource Include="Images\cw.png" />
+    <Resource Include="Images\deletedark.png" />
+    <Resource Include="Images\deletelight.png" />
+    <Resource Include="Images\editdark.png" />
+    <Resource Include="Images\editlight.png" />
+    <Resource Include="Images\icsearch.png" />
+  </ItemGroup>
+
+</Project>
